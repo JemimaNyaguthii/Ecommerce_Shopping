@@ -1,0 +1,176 @@
+body{
+    margin:0%;
+    font-family: system-ui;
+}
+.Header{
+    display: flex;
+}
+.nav{
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.nav a:hover{
+    color: orange;
+}
+
+.nav a{
+    text-decoration: none;
+    color: grey;
+    font-size: 1rem;
+    display: flex;
+ 
+}
+.nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0 2rem;
+}
+.top{
+    margin-left: 50%;
+}
+.top hr{
+    width: 8%;
+    margin-right: 90%;
+}
+
+.Home{
+    height: 40rem;
+    background-color:#748ffc;
+    width: 120%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+}
+.Home h1{
+    font-size: 300%;
+    color: antiquewhite;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.Home img{
+    height: 30rem;
+}
+.Home button{
+    background-color:#f783ac;
+    border-style: none;
+    border-radius: 40px;
+    padding: 20px 30px;
+    /* margin-left:3%; */
+    margin-top: 400%;
+
+}
+#button{
+    background-color:#f783ac;
+    border-style: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    margin-left: 10%;
+} 
+.Dresses{
+    display: flex;
+    gap: 5%;
+    margin-left: 5%;
+}
+#Offshoulder{
+    height: 25rem;
+}
+#neck{
+    height: 25rem;
+  
+}
+#sweater{
+    height: 25rem;
+}
+#Orange{
+    height: 25rem;
+}
+#viewButton{
+    background-color:#f783ac;
+    border-style: none;
+    border-radius: 20px;
+    padding: 20px 30px;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    margin-top:5% ;
+
+}
+.Gym{
+    background-image: url(Gym.png);
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem;
+    width: 35%;
+    color: whitesmoke;
+    margin-left: 8%;
+}
+.Gym h2{
+    margin-top: 10%;
+}
+.partyOffice_shoes{
+    background-image:url(party_officeShoes.jpg);
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem;
+    width: 40%;
+    /* color: whitesmoke; */
+    /* margin-left: 2%; */
+    /* float:right; */
+    
+}
+.shoes{
+    Display: flex;
+    gap: 7%;
+}
+.shoesCasual{
+    background-image: url(shoesVarieties.jpg);
+    opacity: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem;
+    width: 40%;
+    margin-right: 5%;
+    
+}
+.Paragraph{
+    margin-left: 35%;
+}
+.Paragraph p{
+    margin-left: 15%;
+
+}
+.Paragraph h1{
+    margin-left: 8%;
+}
+.Paragraph p1{
+    margin-left: 5%;
+    color: grey; 
+    font-size: 15px;
+}
+#casual{
+    margin-top: 5%;
+  margin-left: 6%;
+  height: 50rem;
+  margin-right: 6%;
+}
+.Footer{
+    display: flex;
+    gap:5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.Footer p{
+    color: grey;
+}
+ .Newsletter button{
+    margin-bottom: 5%;
+ }  
+.Footer hr{
+    width: 100%;
+    margin-bottom: 15%;
+}
+  
+
